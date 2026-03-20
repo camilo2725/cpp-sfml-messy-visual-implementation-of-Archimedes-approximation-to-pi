@@ -1,0 +1,3 @@
+﻿#!/usr/bin/env bash
+DIR="$(dirname "$0")"
+LD_LIBRARY_PATH="$DIR/lib" "$DIR/ArchimedesMethodVisualized"
