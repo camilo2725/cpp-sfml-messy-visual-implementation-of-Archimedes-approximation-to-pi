@@ -7,7 +7,7 @@ It asks you for a number. The left and right arrows decrease and increase it by 
 **Windows:** Run the .exe from inside the `Windows/` folder, alongside the DLLs and the `fonts/` folder. SFML doesn't need to be installed.
 **Linux (64-bit):** Go into the `Linux/` folder and run `run.sh`. Keep everything in there together. SFML doesn't need to be installed.
 
-The `fonts/` folder needs to stay — the program loads a font from it at runtime.
+The `fonts/` folder needs to stay, the program loads a font from it at runtime.
 
 ## Other stuff
-I also threw in two abandoned projects: an unfinished attempt at Conway's Game of Life (last edited December 17, 2022) and a Raycasting test (last edited October 13, 2022). Life got in the way and I never finished them, which I now regret.
+I also threw in two abandoned projects: an unfinished attempt at Conway's Game of Life (last edited December 17, 2022) and a Raycasting test (last edited October 13, 2022). Life got in the way and I never finished them, which I now regret. They are in the "other projects" folder.
